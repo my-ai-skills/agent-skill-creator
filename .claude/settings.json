@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Read",
+      "Write",
+      "Edit",
+      "Bash(python scripts/*)",
+      "Bash(ls *)",
+      "Bash(mkdir *)",
+      "WebSearch",
+      "WebFetch"
+    ],
+    "deny": []
+  }
+}
